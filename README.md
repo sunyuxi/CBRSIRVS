@@ -1,6 +1,6 @@
 # CBRSIR_VS
 
-![Some pairs of VHR and SAR images in CBRSIR VS](CBRSIR_VS.jpg)
+![Some pairs of VHR and SAR images in CBRSIR_VS](CBRSIR_VS.jpg)
 
 CBRSIR_VS is a cross-modal dataset for very high-resolution (VHR) optical and synthetic-aperture radar (SAR) image retrieval. CBRSIR_VS contains 10 class labels and 26,901 pairs of VHR and SAR images. VHR images are collected from Google Earth Imagery and ArcGIS map, and SAR images are collected from Sentinel-1 imagery via Google Earth Engine.
 
